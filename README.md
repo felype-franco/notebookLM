@@ -1,8 +1,23 @@
 # NotebookLM
 ## Desafio DIO
 
-O desafio consiste em criar um notebookLM de acordo com o tema que desejar. O meu foi sobre a área de DevOps.
+O desafio consiste em criar um notebookLM de acordo com o tema que desejar. O meu foi sobre a área de DevOps. É uma área desafiadora e interessante.
 * (https://notebook.google.com/notebook/ba18af01-ebe6-43ee-b11f-ffc906892c0e)
+
+Prompts:
+* Criar um roadmap de estudos baseado na minha experiência na área de infra-estrutura;
+* Como melhorar em shell e python;
+* Como criar uma infra como código utilizando vagrant ou terraform
+
+Dificuldades observadas: poucas fontes sem utilizar a pesquisa na web, não traz um roadmap mais completo sobre o tema.
+
+
+
+### Fontes
+* (https://aws.amazon.com/pt/what-is/iac/)
+* (https://www.redhat.com/pt-br/topics/automation/what-is-infrastructure-as-code-iac)
+* (https://www.ibm.com/br-pt/think/topics/infrastructure-as-code)
+* (https://cloud.google.com/discover/what-is-infrastructure-as-code?hl=pt-BR)
 
 
 ### **Miniguia de Estudo** DEVOPS
