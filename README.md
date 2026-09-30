@@ -5,7 +5,7 @@ O desafio consiste em criar um notebookLM de acordo com o tema que desejar. O me
 * (https://notebook.google.com/notebook/ba18af01-ebe6-43ee-b11f-ffc906892c0e)
 
 
-### Abaixo está o seu **Miniguia de Estudo**, estruturado com base nas fontes e discussões do seu caderno.
+### **Miniguia de Estudo** DEVOPS
 
 ---
 
