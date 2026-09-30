@@ -5,7 +5,7 @@ O desafio consiste em criar um notebookLM de acordo com o tema que desejar. O me
 * (https://notebook.google.com/notebook/ba18af01-ebe6-43ee-b11f-ffc906892c0e)
 
 
-## Abaixo está o seu **Miniguia de Estudo**, estruturado com base nas fontes e discussões do seu caderno.
+### Abaixo está o seu **Miniguia de Estudo**, estruturado com base nas fontes e discussões do seu caderno.
 
 ---
 
@@ -74,5 +74,3 @@ Você pode copiar e colar estes prompts em interações futuras para aprofundar 
   > *"Simule uma entrevista técnica para uma vaga de DevOps Júnior/Pleno. Faça 3 perguntas focadas em [Terraform / Docker / CI/CD / Redes]. Espere eu responder cada uma antes de passar para a próxima. Após a minha resposta, dê um feedback construtivo sobre o que posso melhorar do ponto de vista técnico e de comunicação."*
 
 ---
-
-💡 **Dica de próximo passo:** Você gostaria que usássemos um desses prompts agora mesmo para criar um exercício prático de **Shell Script** ou **Python** voltado para automação de tarefas de infraestrutura?
